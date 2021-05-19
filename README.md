@@ -1,5 +1,13 @@
 ## Clicky Crates 
   
-  Clicky Crates is a game created in Prototype 5 of unity junior programmer pathway. This is a untiy WebGL build. To play open index.html.
+  Clicky Crates is a 2d game click game with 3 different level modes. Click on the boxes to score points while avoiding clicking on the skulls. If any box is missed or clicked on the skull game will be over.
 
-Tutorial: https://learn.unity.com/project/unit-5-user-interface?pathwayId=5f7e17e1edbc2a5ec21a20af&missionId=5f7648a4edbc2a5578eb67df
+Run: This is a untiy WebGL build. To play open index.html.
+  
+Play: https://play.unity.com/p/60a4b095a2b6e20262dc5047/edit
+
+Configure: Enable WebGL to run the game 
+
+           Chrome: https://www.interplaylearning.com/help/how-to-enable-webgl-in-chrome
+           
+           FireFox: https://www.interplaylearning.com/help/how-to-enable-webgl-in-firefox
