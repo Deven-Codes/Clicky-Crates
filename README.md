@@ -1,6 +1,6 @@
 ## Clicky Crates 
   
-  Clicky Crates is a 2d game click game with 3 different level modes. Click on the boxes to score points while avoiding clicking on the skulls. If any box is missed or clicked on the skull game will be over.
+  Clicky Crates is a 2d click game with 3 different level modes. Click on the boxes to score points while avoiding clicking on the skulls. If any box is missed or clicked on the skull game will be over.
 
 Run: This is a untiy WebGL build. To play open index.html.
   
